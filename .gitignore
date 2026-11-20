@@ -1,3 +1,5 @@
-Modules/
-Scripts/
+scripts/
+modules/Microsoft.PowerToys.Configure
+modules/Microsoft.WinGet.Client
+modules/PSFzf
 Microsoft.PowerShell_profile.ps1.bak
